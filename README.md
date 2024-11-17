@@ -21,6 +21,19 @@ Tahmin ve Öngörü İşlemlerinde Yapay Zeka Uygulamaları: Sosyal Medya, Doğa
   
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
+## Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilgisayar Teknolojisi Programı'nda 2023-2024 Güz döneminde yürütülen BGT211 Yapay Zeka dersinde gerçekleştirilen uygulamalı proje çalışmalarının sonuçlarına dayanmaktadır. ORCID Kimlikleri: 0009-0007-3950-6761, 0009-0000-8932-0673, 0009-0008-1498-1774, 0009-0001-0894-4554, 0000-0003-4535-3953.
+
+** Kongre Bilgileri
+
+Kongre İsmi: 11. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ
+  
+Kongre Tarihleri: 09-10 KASIM 2024 İSTANBUL
+
+[Kongre İnternet Sayfası](https://www.muhendislikveteknolojiyonetimikongresi.org)
+
+•	Full Article Access Link: [Faster R-CNN Evrişimsel sinir ağı üzerinde geliştirilen modelin derin öğrenme yöntemleri ile doğruluk tahmini ve analizi: Nesne Tespiti Uygulaması](https://dergipark.org.tr/en/pub/ejosat/article/753896)
+
+
 [1. Araştma Yayın Linki](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:7PzlFSSx8tAC)
 
 [2. Araştma Yayın Linki](https://avesis.gelisim.edu.tr/yayin/b042e3b3-b6ab-471c-888e-f50b6ce1fae3/tahmin-ve-ongoru-islemlerinde-yapay-zeka-uygulamalari-sosyal-medya-dogal-dil-isleme-ve-sohbet-botlari-uzerinde-simulasyon-arastirmalari)
