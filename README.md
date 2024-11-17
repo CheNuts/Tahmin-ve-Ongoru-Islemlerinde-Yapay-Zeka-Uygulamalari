@@ -10,7 +10,7 @@ Tahmin ve Öngörü İşlemlerinde Yapay Zeka Uygulamaları: Sosyal Medya, Doğa
 - **Kerim KIZILKAYA**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
 
-- **Kerim KIZILKAYA**  
+- **Mertcan ŞAHİN**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
   
 - **Hasan Meriç YILDIZ**  
