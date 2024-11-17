@@ -4,11 +4,26 @@ Tahmin ve Öngörü İşlemlerinde Yapay Zeka Uygulamaları: Sosyal Medya, Doğa
 
 [Araştma Yayın Linki](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:7PzlFSSx8tAC)
 
-Zeynep EŞİN, Kerim KIZILKAYA, Mertcan ŞAHİN, Hasan Meriç YILDIZ,  Ali ÇETİNKAYA
+## Authors
 
-İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
+- **Zeynep EŞİN**  
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
+  
+- **Kerim KIZILKAYA**  
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
 
-İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
+- **Kerim KIZILKAYA**  
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
+  
+- **Hasan Meriç YILDIZ**  
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
+
+- **Ali Çetinkaya**  
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
+  
+*For Correspondence: alcetinkaya@gelisim.edu.tr*
+
+
 
 Öz:
 Yapay Zeka (YZ) algoritmaları programlama dilleri ile birleşince büyük teknolojik çalışmalar ortaya çıkmaktadır. Bu çalışmalar birçok bilim alanında farklılaşarak örnekler uygulamalar ile askeri ve polis sistemlerinde, tarımsal uygulamalarda, imge işleme uygulamalarında, veri mühendisliği çalışmalarında, dil işleme çalışmalarında ve siber güvenlik uygulamalarında örnekler artarak devam etmektedir. Algoritmaların kullanım alanlarında farklılaşması ile YZ alanında geliştirilen uygulamalarda değişmektedir. Son yıllarda YZ teknolojilerinin işleyişini kavramak ve buna bağlı algoritmalar ile gerçekleştirilen çalışmalarda sistemlerin analiz edilmesine odaklanmıştır. YZ alınında literatüre katkı sağlayacağımız bu çalışma içerisinde de farklı uygulamalara yer verilerek araştırmalar gerçekleştirilmiştir.
