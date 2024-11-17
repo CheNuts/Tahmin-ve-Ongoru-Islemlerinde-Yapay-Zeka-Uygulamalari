@@ -18,7 +18,7 @@ Tahmin ve Öngörü İşlemlerinde Yapay Zeka Uygulamaları: Sosyal Medya, Doğa
 - **Hasan Meriç YILDIZ**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
 
-- **Ali Çetinkaya**  
+- **Ali Çetinkaya* **  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
   
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
