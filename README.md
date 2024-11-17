@@ -2,8 +2,6 @@
 
 Tahmin ve Öngörü İşlemlerinde Yapay Zeka Uygulamaları: Sosyal Medya, Doğal Dil İşleme ve Sohbet Botları Üzerinde Simülasyon Araştırmaları
 
-[Araştma Yayın Linki](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:7PzlFSSx8tAC)
-
 ## Authors
 
 - **Zeynep EŞİN**  
@@ -18,12 +16,18 @@ Tahmin ve Öngörü İşlemlerinde Yapay Zeka Uygulamaları: Sosyal Medya, Doğa
 - **Hasan Meriç YILDIZ**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
 
-- **Ali Çetinkaya* **  
+- **Ali Çetinkaya**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
   
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
+[1. Araştma Yayın Linki](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:7PzlFSSx8tAC)
 
+[2. Araştma Yayın Linki](https://avesis.gelisim.edu.tr/yayin/b042e3b3-b6ab-471c-888e-f50b6ce1fae3/tahmin-ve-ongoru-islemlerinde-yapay-zeka-uygulamalari-sosyal-medya-dogal-dil-isleme-ve-sohbet-botlari-uzerinde-simulasyon-arastirmalari)
+
+[3. Araştma Yayın Linki](https://www.researchgate.net/publication/379958684_TAHMIN_VE_ONGORU_ISLEMLERINDE_YAPAY_ZEKA_UYGULAMALARI_SOSYAL_MEDYA_DOGAL_DIL_ISLEME_VE_SOHBET_BOTLARI_UZERINDE_SIMULASYON_ARASTIRMALARI)
+
+[4. Araştma Yayın Linki](https://www.instagram.com/p/C4k-F6mNcZb/)
 
 Öz:
 Yapay Zeka (YZ) algoritmaları programlama dilleri ile birleşince büyük teknolojik çalışmalar ortaya çıkmaktadır. Bu çalışmalar birçok bilim alanında farklılaşarak örnekler uygulamalar ile askeri ve polis sistemlerinde, tarımsal uygulamalarda, imge işleme uygulamalarında, veri mühendisliği çalışmalarında, dil işleme çalışmalarında ve siber güvenlik uygulamalarında örnekler artarak devam etmektedir. Algoritmaların kullanım alanlarında farklılaşması ile YZ alanında geliştirilen uygulamalarda değişmektedir. Son yıllarda YZ teknolojilerinin işleyişini kavramak ve buna bağlı algoritmalar ile gerçekleştirilen çalışmalarda sistemlerin analiz edilmesine odaklanmıştır. YZ alınında literatüre katkı sağlayacağımız bu çalışma içerisinde de farklı uygulamalara yer verilerek araştırmalar gerçekleştirilmiştir.
