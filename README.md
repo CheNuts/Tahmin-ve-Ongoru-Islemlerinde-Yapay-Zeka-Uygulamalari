@@ -31,9 +31,6 @@ Kongre Tarihleri: 09-10 KASIM 2024 İSTANBUL
 
 [Kongre İnternet Sayfası](https://www.muhendislikveteknolojiyonetimikongresi.org)
 
-•	Full Article Access Link: [Faster R-CNN Evrişimsel sinir ağı üzerinde geliştirilen modelin derin öğrenme yöntemleri ile doğruluk tahmini ve analizi: Nesne Tespiti Uygulaması](https://dergipark.org.tr/en/pub/ejosat/article/753896)
-
-
 [1. Araştma Yayın Linki](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:7PzlFSSx8tAC)
 
 [2. Araştma Yayın Linki](https://avesis.gelisim.edu.tr/yayin/b042e3b3-b6ab-471c-888e-f50b6ce1fae3/tahmin-ve-ongoru-islemlerinde-yapay-zeka-uygulamalari-sosyal-medya-dogal-dil-isleme-ve-sohbet-botlari-uzerinde-simulasyon-arastirmalari)
