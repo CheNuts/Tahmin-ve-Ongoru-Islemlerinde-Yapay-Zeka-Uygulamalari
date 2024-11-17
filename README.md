@@ -16,7 +16,7 @@ Tahmin ve Öngörü İşlemlerinde Yapay Zeka Uygulamaları: Sosyal Medya, Doğa
 - **Hasan Meriç YILDIZ**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
 
-- **Ali Çetinkaya**  
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye
   
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
@@ -37,3 +37,15 @@ Bu bağlamda çalışma içerisinde YZ'nin sosyal medya platformları üzerindek
 Sonuç olarak bu çalışma kapsamında YZ algoritmaları ile yapılan bu uygulama araştırmaları ile sosyal medya platformları üzerindeki işleyişi, Hastalık ön tanı ve belirtileri ile dijital sağlık rehberi, perakende sektöründe mağazaya gitmeden özellikler ve bütçesine göre mağaza öneri sistemi, Türkçe - Arapça bir dil çeviri sisteminin oluşturulmasında doğal dil işleme özellikleriyle geliştirilen bir sistem üzerinde uygulamalı araştırmalar gerçekleştirilmiştir. Alınan ve ölçümlenen sonuçlar yapay zekanın kullanımıyla mevcut ve ileriki süreçlerde geliştirilecek çalışmalar için öneriler getirilmiştir. Elde edilen sonuçlar sunulmuştur.
 
 Anahtar Kelimeler: Yapay Zeka, AI, Sosyal Medya, Perakende Sektörü, Çeviri İşlemleri, Dijital Sağlık Rehberi 
+
+## How to Cite / Nasıl Alıntı Yapılır
+
+- **IEEE**: Z.  Eşin Et Al. , "TAHMİN VE ÖNGÖRÜ İŞLEMLERİNDE YAPAY ZEKA UYGULAMALARI: SOSYAL MEDYA, DOĞAL DİL İŞLEME VE SOHBET BOTLARI ÜZERİNDE SİMÜLASYON ARAŞTIRMALARI,"  11. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ , vol.1, no.52024, İstanbul, Turkey, pp.298-305, 2024                
+
+- **APA**: Eşin, Z., Kızılkaya, K., Şahin, M., Yıldız, H. M.,  & Çetinkaya, A., (2024).  TAHMİN VE ÖNGÖRÜ İŞLEMLERİNDE YAPAY ZEKA UYGULAMALARI: SOSYAL MEDYA, DOĞAL DİL İŞLEME VE SOHBET BOTLARI ÜZERİNDE SİMÜLASYON ARAŞTIRMALARI . 11. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ (pp.298-305). İstanbul, Turkey                
+
+- **MLA**: Eşin, Zeynep Et Al.  "TAHMİN VE ÖNGÖRÜ İŞLEMLERİNDE YAPAY ZEKA UYGULAMALARI: SOSYAL MEDYA, DOĞAL DİL İŞLEME VE SOHBET BOTLARI ÜZERİNDE SİMÜLASYON ARAŞTIRMALARI."  11. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ , İstanbul, Turkey, pp.298-305, 2024
+
+License:
+
+This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
